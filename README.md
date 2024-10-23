@@ -40,6 +40,8 @@ As additional maps are released and the coresponding data is updated at [ark.wik
 
 Please be aware that the script ammends files and therefore will add data to any existing data. Either delete the files before use or ensure they are empty. Or add the relevant checks and functionality ;)
 
+## Or you could just cheat!
 
+If this is all still to much for you, dont forget the **"cheat GiveAllExplorerNotes"** command. That is if it dont crash your computer you cheater!
 
 
