@@ -1,5 +1,5 @@
 # ASA_Note_Marker_Maker
-A simple Python script to create Ark Survival Ascended (ASA) Explorer note markers and teleport commands from json data found at [ark.wiki.gg](https://ark.wiki.gg).
+A simple Python script to create Ark Survival Ascended (ASA) Explorer note markers and teleport commands from json data found at [ark.wiki.gg](https://ark.wiki.gg). Files also avaliable!
 
 ![Screenshot of some parsed map data](/img/map_1.jpg)
 
