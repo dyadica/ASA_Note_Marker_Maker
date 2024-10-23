@@ -1,0 +1,906 @@
+{
+	"$schema": "https://ark.wiki.gg/extensions/DataMaps/schemas/v17.2.json",
+	"include": [
+		"Data:Maps/Standard group definitions",
+		"Data:Maps/Loot crate icons",
+		"Data:Maps/Scorched Earth Obelisks/ASA",
+		"Data:Maps/Scorched Earth Caves/ASA"
+	],
+	"background": { "image": "Scorched Earth map ASA.jpg" },
+	"settings": { "enableSearch": true },
+	"groups": {},
+	"markers": {
+		"dossier": [
+			{
+				"lat": 18.143, "lon": 46.193,
+				"name": "Deathworm Dossier <span class=\"datamap-explorer-note-id\">(ID: 90)</span>",
+				"description": "Teleport command: <code>cheat spi -29984 -250872 -15803 -77.20 -47.79</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 90.jpg"
+			},
+			{
+				"lat": 17.541, "lon": 84.758,
+				"name": "Mantis Dossier <span class=\"datamap-explorer-note-id\">(ID: 91)</span>",
+				"description": "Teleport command: <code>cheat spi 273716 -255616 -10737 45.88 -61.17</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 91.jpg"
+			},
+			{
+				"lat": 36.705, "lon": 11.719,
+				"name": "Jerboa Dossier <span class=\"datamap-explorer-note-id\">(ID: 92)</span>",
+				"description": "Teleport command: <code>cheat spi -301460 -104695 -15905 -68.62 -37.10</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 92.jpg"
+			},
+			{
+				"lat": 34.821, "lon": 59.867,
+				"name": "Jug Bug Dossier <span class=\"datamap-explorer-note-id\">(ID: 93)</span>",
+				"description": "Teleport command: <code>cheat spi 77700 -119534 -10555 -178.78 -37.90</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 93.jpg"
+			},
+			{
+				"lat": 65.262, "lon": 32.332,
+				"name": "Moth Dossier <span class=\"datamap-explorer-note-id\">(ID: 94)</span>",
+				"description": "Teleport command: <code>cheat spi -139135 120189 -7835 -103.56 -61.24</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 94.jpg"
+			},
+			{
+				"lat": 79.959, "lon": 32.209,
+				"name": "Rock Elemental Dossier <span class=\"datamap-explorer-note-id\">(ID: 95)</span>",
+				"description": "Teleport command: <code>cheat spi -140106 235925 -13157 31.72 -44.44</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 95.jpg"
+			},
+			{
+				"lat": 81.664, "lon": 13.682,
+				"name": "Thorny Dragon Dossier <span class=\"datamap-explorer-note-id\">(ID: 96)</span>",
+				"description": "Teleport command: <code>cheat spi -286006 249354 -8832 103.58 -43.80</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 96.jpg"
+			},
+			{
+				"lat": 11.458, "lon": 46.223,
+				"name": "Wyvern Dossier <span class=\"datamap-explorer-note-id\">(ID: 97)</span>",
+				"description": "Teleport command: <code>cheat spi -29740 -303517 -12093 -179.58 -48.26</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 97.jpg"
+			},
+			{
+				"lat": 17.681, "lon": 67.564,
+				"name": "Vulture Dossier <span class=\"datamap-explorer-note-id\">(ID: 98)</span>",
+				"description": "Teleport command: <code>cheat spi 138313 -254514 -11358 26.85 -44.41</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 98.jpg"
+			},
+			{
+				"lat": 83.583, "lon": 52.126,
+				"name": "Morellatops Dossier <span class=\"datamap-explorer-note-id\">(ID: 99)</span>",
+				"description": "Teleport command: <code>cheat spi 16743 264470 -13483 -22.75 -41.23</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 99.jpg"
+			},
+			{
+				"lat": 85.273, "lon": 14.058,
+				"name": "Phoenix Dossier <span class=\"datamap-explorer-note-id\">(ID: 356)</span>",
+				"description": "Teleport command: <code>cheat spi -283047 277777 -11089 -9.40 -14.59</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 356.jpg"
+			},
+			{
+				"lat": 73.064, "lon": 37.743,
+				"name": "Fasolusuchus Dossier <span class=\"datamap-explorer-note-id\">(ID: 1232)</span>",
+				"description": "Teleport command: <code>cheat spi -96525 181630 -21379 -66.41 -46.45</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 1232.jpg"
+			},
+			{
+				"lat": 59.744, "lon": 15.183,
+				"name": "Oasisaur Dossier <span class=\"datamap-explorer-note-id\">(ID: 1233)</span>",
+				"description": "Teleport command: <code>cheat spi -274181 76736 -32733 -158.91 -47.85</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 1233.jpg"
+			}
+		],
+		"explorer-note": [
+			{
+				"lat": 10.222, "lon": 39.626,
+				"name": "Raia Tablet #1 <span class=\"datamap-explorer-note-id\">(ID: 101)</span>",
+				"description": "Teleport command: <code>cheat spi -81694 -313251 -9694 2.09 -61.19</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 101.jpg"
+			},
+			{
+				"lat": 51.468, "lon": 49.383,
+				"name": "Raia Tablet #2 <span class=\"datamap-explorer-note-id\">(ID: 102)</span>",
+				"description": "Teleport command: <code>cheat spi -4857 11562 -19525 -130.44 -43.82</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 102.jpg"
+			},
+			{
+				"lat": 49.17, "lon": 50.82,
+				"name": "Raia Tablet #3 <span class=\"datamap-explorer-note-id\">(ID: 103)</span>",
+				"description": "Teleport command: <code>cheat spi 6460 -6538 -17044 -1.30 -38.86</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 103.jpg"
+			},
+			{
+				"lat": 86.242, "lon": 68.611,
+				"name": "Raia Tablet #4 <span class=\"datamap-explorer-note-id\">(ID: 104)</span>",
+				"description": "Teleport command: <code>cheat spi 146560 285403 -16203 -43.20 -67.44</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 104.jpg"
+			},
+			{
+				"lat": 17.174, "lon": 11.575,
+				"name": "Dahkeya Note #1 <span class=\"datamap-explorer-note-id\">(ID: 105)</span>",
+				"description": "Teleport command: <code>cheat spi -302593 -258505 -8035 -172.21 -60.12</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 105.jpg"
+			},
+			{
+				"lat": 14.258, "lon": 27.384,
+				"name": "Dahkeya Note #2 <span class=\"datamap-explorer-note-id\">(ID: 106)</span>",
+				"description": "Teleport command: <code>cheat spi -178101 -281472 -7416 -29.52 -43.53</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 106.jpg"
+			},
+			{
+				"lat": 66.864, "lon": 13.952,
+				"name": "Dahkeya Note #3 <span class=\"datamap-explorer-note-id\">(ID: 107)</span>",
+				"description": "Teleport command: <code>cheat spi -283875 132805 -14356 75.54 -69.68</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 107.jpg"
+			},
+			{
+				"lat": 71.419, "lon": 48.043,
+				"name": "Dahkeya Note #4 <span class=\"datamap-explorer-note-id\">(ID: 108)</span>",
+				"description": "Teleport command: <code>cheat spi -15408 168674 -6017 -121.64 -44.12</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 108.jpg"
+			},
+			{
+				"lat": 43.143, "lon": 44.969,
+				"name": "Helena Note #1 <span class=\"datamap-explorer-note-id\">(ID: 109)</span>",
+				"description": "Teleport command: <code>cheat spi -39617 -53997 -13957 156.43 -44.35</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 109.jpg"
+			},
+			{
+				"lat": 48.808, "lon": 71.417,
+				"name": "Helena Note #2 <span class=\"datamap-explorer-note-id\">(ID: 110)</span>",
+				"description": "Teleport command: <code>cheat spi 168659 -9385 -10054 -21.38 -48.02</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 110.jpg"
+			},
+			{
+				"lat": 57.105, "lon": 76.466,
+				"name": "Helena Note #3 <span class=\"datamap-explorer-note-id\">(ID: 111)</span>",
+				"description": "Teleport command: <code>cheat spi 208422 55952 -3823 10.48 -40.16</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 111.jpg"
+			},
+			{
+				"lat": 82.093, "lon": 64.075,
+				"name": "Helena Note #4 <span class=\"datamap-explorer-note-id\">(ID: 112)</span>",
+				"description": "Teleport command: <code>cheat spi 110837 252735 -2421 172.08 -38.48</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 112.jpg"
+			},
+			{
+				"lat": 71.789, "lon": 10.75,
+				"name": "Rockwell Record #1 <span class=\"datamap-explorer-note-id\">(ID: 113)</span>",
+				"description": "Teleport command: <code>cheat spi -309097 171585 -15029 -43.78 -48.25</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 113.jpg"
+			},
+			{
+				"lat": 72.502, "lon": 86.693,
+				"name": "Rockwell Record #2 <span class=\"datamap-explorer-note-id\">(ID: 114)</span>",
+				"description": "Teleport command: <code>cheat spi 288959 177200 -10685 -84.09 -47.38</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 114.jpg"
+			},
+			{
+				"lat": 85.159, "lon": 13.756,
+				"name": "Rockwell Record #3 <span class=\"datamap-explorer-note-id\">(ID: 115)</span>",
+				"description": "Teleport command: <code>cheat spi -285424 276879 -5488 92.41 -50.75</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 115.jpg"
+			},
+			{
+				"lat": 79.08, "lon": 83.408,
+				"name": "Rockwell Record #4 <span class=\"datamap-explorer-note-id\">(ID: 116)</span>",
+				"description": "Teleport command: <code>cheat spi 263091 229004 -14724 37.16 -70.01</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 116.jpg"
+			},
+			{
+				"lat": 11.033, "lon": 84.653,
+				"name": "Rockwell Record #5 <span class=\"datamap-explorer-note-id\">(ID: 117)</span>",
+				"description": "Teleport command: <code>cheat spi 272893 -306869 -12838 -100.87 -46.22</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 117.jpg"
+			},
+			{
+				"lat": 53.471, "lon": 43.629,
+				"name": "Dahkeya Note #5 <span class=\"datamap-explorer-note-id\">(ID: 119)</span>",
+				"description": "Teleport command: <code>cheat spi -50170 27331 -7439 -105.62 -50.69</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 119.jpg"
+			},
+			{
+				"lat": 70.127, "lon": 59.45,
+				"name": "Raia Tablet #5 <span class=\"datamap-explorer-note-id\">(ID: 120)</span>",
+				"description": "Teleport command: <code>cheat spi 74421 158504 -15659 -147.55 -30.45</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 120.jpg"
+			},
+			{
+				"lat": 40.558, "lon": 54.096,
+				"name": "Helena Note #5 <span class=\"datamap-explorer-note-id\">(ID: 122)</span>",
+				"description": "Teleport command: <code>cheat spi 32254 -74357 -19081 -165.68 -57.70</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 122.jpg"
+			},
+			{
+				"lat": 50.848, "lon": 24.706,
+				"name": "Helena Note #6 <span class=\"datamap-explorer-note-id\">(ID: 129)</span>",
+				"description": "Teleport command: <code>cheat spi -199194 6681 -17667 -145.42 -51.87</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 129.jpg"
+			},
+			{
+				"lat": 31.654, "lon": 28.895,
+				"name": "Helena Note #7 <span class=\"datamap-explorer-note-id\">(ID: 130)</span>",
+				"description": "Teleport command: <code>cheat spi -166200 -144475 10309 -39.55 -56.44</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 130.jpg"
+			},
+			{
+				"lat": 21.955, "lon": 61.118,
+				"name": "Raia Tablet #6 <span class=\"datamap-explorer-note-id\">(ID: 133)</span>",
+				"description": "Teleport command: <code>cheat spi 87554 -220858 -9673 -44.83 -38.46</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 133.jpg"
+			},
+			{
+				"lat": 78.709, "lon": 76.547,
+				"name": "Raia Tablet #7 <span class=\"datamap-explorer-note-id\">(ID: 134)</span>",
+				"description": "Teleport command: <code>cheat spi 209058 226082 -19846 172.00 -30.52</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 134.jpg"
+			},
+			{
+				"lat": 79.1, "lon": 50.174,
+				"name": "Dahkeya Note #6 <span class=\"datamap-explorer-note-id\">(ID: 135)</span>",
+				"description": "Teleport command: <code>cheat spi 1374 229166 -3374 -156.16 -57.07</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 135.jpg"
+			},
+			{
+				"lat": 30.525, "lon": 53.797,
+				"name": "Dahkeya Note #7 <span class=\"datamap-explorer-note-id\">(ID: 136)</span>",
+				"description": "Teleport command: <code>cheat spi 29904 -153368 -17768 -97.97 -55.92</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 136.jpg"
+			},
+			{
+				"lat": 23.727, "lon": 38.832,
+				"name": "Rockwell Record #6 <span class=\"datamap-explorer-note-id\">(ID: 139)</span>",
+				"description": "Teleport command: <code>cheat spi -87946 -206897 -12904 -110.77 -48.98</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 139.jpg"
+			},
+			{
+				"lat": 58.109, "lon": 44.725,
+				"name": "Rockwell Record #7 <span class=\"datamap-explorer-note-id\">(ID: 140)</span>",
+				"description": "Teleport command: <code>cheat spi -41542 63862 -20628 76.86 -46.56</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 140.jpg"
+			},
+			{
+				"lat": 22.826, "lon": 52.35,
+				"name": "Helena Note #8 <span class=\"datamap-explorer-note-id\">(ID: 148)</span>",
+				"description": "Teleport command: <code>cheat spi 18505 -213994 -13150 6.07 -50.75</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 148.jpg"
+			},
+			{
+				"lat": 16.273, "lon": 56.676,
+				"name": "Raia Tablet #8 <span class=\"datamap-explorer-note-id\">(ID: 149)</span>",
+				"description": "Teleport command: <code>cheat spi 52577 -265598 -15120 -154.19 -43.57</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 149.jpg"
+			},
+			{
+				"lat": 21.947, "lon": 44.028,
+				"name": "Dahkeya Note #8 <span class=\"datamap-explorer-note-id\">(ID: 150)</span>",
+				"description": "Teleport command: <code>cheat spi -47032 -220916 -8396 33.92 -48.84</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 150.jpg"
+			},
+			{
+				"lat": 21.661, "lon": 66.02,
+				"name": "Rockwell Record #8 <span class=\"datamap-explorer-note-id\">(ID: 151)</span>",
+				"description": "Teleport command: <code>cheat spi 126158 -223166 -9528 -159.13 -41.20</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 151.jpg"
+			},
+			{
+				"lat": 50.986, "lon": 87.411,
+				"name": "Helena Note #9 <span class=\"datamap-explorer-note-id\">(ID: 156)</span>",
+				"description": "Teleport command: <code>cheat spi 294609 7762 -8546 -77.88 -43.89</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 156.jpg"
+			},
+			{
+				"lat": 50.342, "lon": 80.716,
+				"name": "Raia Tablet #9 <span class=\"datamap-explorer-note-id\">(ID: 157)</span>",
+				"description": "Teleport command: <code>cheat spi 241889 2695 -6770 -149.87 -43.03</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 157.jpg"
+			},
+			{
+				"lat": 42.237, "lon": 90.342,
+				"name": "Dahkeya Note #9 <span class=\"datamap-explorer-note-id\">(ID: 158)</span>",
+				"description": "Teleport command: <code>cheat spi 317692 -61131 -16020 -51.15 -58.00</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 158.jpg"
+			},
+			{
+				"lat": 54.476, "lon": 76.937,
+				"name": "Rockwell Record #9 <span class=\"datamap-explorer-note-id\">(ID: 159)</span>",
+				"description": "Teleport command: <code>cheat spi 212125 35248 -6816 126.60 -49.33</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 159.jpg"
+			},
+			{
+				"lat": 77.548, "lon": 75.897,
+				"name": "Helena Note #10 <span class=\"datamap-explorer-note-id\">(ID: 169)</span>",
+				"description": "Teleport command: <code>cheat spi 203942 216943 -13377 -152.14 -42.76</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 169.jpg"
+			},
+			{
+				"lat": 89.328, "lon": 38.426,
+				"name": "Raia Tablet #10 <span class=\"datamap-explorer-note-id\">(ID: 170)</span>",
+				"description": "Teleport command: <code>cheat spi -91148 309710 -11964 -125.70 -37.73</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 170.jpg"
+			},
+			{
+				"lat": 61.402, "lon": 78.085,
+				"name": "Dahkeya Note #10 <span class=\"datamap-explorer-note-id\">(ID: 171)</span>",
+				"description": "Teleport command: <code>cheat spi 221167 89790 -8897 179.84 -59.33</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 171.jpg"
+			},
+			{
+				"lat": 86.142, "lon": 68.456,
+				"name": "Rockwell Record #10 <span class=\"datamap-explorer-note-id\">(ID: 172)</span>",
+				"description": "Teleport command: <code>cheat spi 145339 284616 -15493 65.20 -47.67</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 172.jpg"
+			},
+			{
+				"lat": 10.454, "lon": 16.606,
+				"name": "Helena Note #11 <span class=\"datamap-explorer-note-id\">(ID: 209)</span>",
+				"description": "Teleport command: <code>cheat spi -262975 -311422 -7993 -107.03 -43.55</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 209.jpg"
+			},
+			{
+				"lat": 15.903, "lon": 20.779,
+				"name": "Helena Note #12 <span class=\"datamap-explorer-note-id\">(ID: 210)</span>",
+				"description": "Teleport command: <code>cheat spi -230113 -268516 -12672 -29.25 -55.67</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 210.jpg"
+			},
+			{
+				"lat": 23.35, "lon": 12.018,
+				"name": "Helena Note #13 <span class=\"datamap-explorer-note-id\">(ID: 211)</span>",
+				"description": "Teleport command: <code>cheat spi -299111 -209870 -11502 -9.02 -43.27</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 211.jpg"
+			},
+			{
+				"lat": 15.244, "lon": 39.925,
+				"name": "Helena Note #14 <span class=\"datamap-explorer-note-id\">(ID: 212)</span>",
+				"description": "Teleport command: <code>cheat spi -79337 -273700 -8653 86.54 -40.53</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 212.jpg"
+			},
+			{
+				"lat": 13.515, "lon": 34.888,
+				"name": "Helena Note #15 <span class=\"datamap-explorer-note-id\">(ID: 213)</span>",
+				"description": "Teleport command: <code>cheat spi -119010 -287322 -11393 176.68 -47.28</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 213.jpg"
+			},
+			{
+				"lat": 16.022, "lon": 56.722,
+				"name": "Helena Note #16 <span class=\"datamap-explorer-note-id\">(ID: 214)</span>",
+				"description": "Teleport command: <code>cheat spi 52935 -267573 -14822 -173.19 -67.28</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 214.jpg"
+			},
+			{
+				"lat": 23.268, "lon": 52.394,
+				"name": "Helena Note #17 <span class=\"datamap-explorer-note-id\">(ID: 215)</span>",
+				"description": "Teleport command: <code>cheat spi 18855 -210514 -18147 10.50 -44.01</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 215.jpg"
+			},
+			{
+				"lat": 9.733, "lon": 66.447,
+				"name": "Helena Note #18 <span class=\"datamap-explorer-note-id\">(ID: 216)</span>",
+				"description": "Teleport command: <code>cheat spi 129521 -317103 -12752 151.17 -52.88</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 216.jpg"
+			},
+			{
+				"lat": 24.656, "lon": 78.462,
+				"name": "Dahkeya Note #11 <span class=\"datamap-explorer-note-id\">(ID: 217)</span>",
+				"description": "Teleport command: <code>cheat spi 224141 -199585 -8652 -159.75 -58.85</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 217.jpg"
+			},
+			{
+				"lat": 17.039, "lon": 88.613,
+				"name": "Dahkeya Note #12 <span class=\"datamap-explorer-note-id\">(ID: 218)</span>",
+				"description": "Teleport command: <code>cheat spi 304081 -259565 -10060 -173.71 -43.54</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 218.jpg"
+			},
+			{
+				"lat": 33.387, "lon": 9.986,
+				"name": "Dahkeya Note #13 <span class=\"datamap-explorer-note-id\">(ID: 219)</span>",
+				"description": "Teleport command: <code>cheat spi -315114 -130829 -16385 164.65 -59.24</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 219.jpg"
+			},
+			{
+				"lat": 27.508, "lon": 11.813,
+				"name": "Dahkeya Note #14 <span class=\"datamap-explorer-note-id\">(ID: 220)</span>",
+				"description": "Teleport command: <code>cheat spi -300720 -177123 -12965 78.06 -56.14</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 220.jpg"
+			},
+			{
+				"lat": 39.548, "lon": 40.937,
+				"name": "Dahkeya Note #15 <span class=\"datamap-explorer-note-id\">(ID: 221)</span>",
+				"description": "Teleport command: <code>cheat spi -71371 -82309 -14028 5.60 -61.40</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 221.jpg"
+			},
+			{
+				"lat": 35.539, "lon": 37.63,
+				"name": "Dahkeya Note #16 <span class=\"datamap-explorer-note-id\">(ID: 222)</span>",
+				"description": "Teleport command: <code>cheat spi -97417 -113879 -7236 -167.90 -58.82</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 222.jpg"
+			},
+			{
+				"lat": 30.105, "lon": 39.524,
+				"name": "Dahkeya Note #17 <span class=\"datamap-explorer-note-id\">(ID: 223)</span>",
+				"description": "Teleport command: <code>cheat spi -82498 -156674 -9843 178.16 -52.09</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 223.jpg"
+			},
+			{
+				"lat": 27.873, "lon": 41.565,
+				"name": "Dahkeya Note #18 <span class=\"datamap-explorer-note-id\">(ID: 224)</span>",
+				"description": "Teleport command: <code>cheat spi -66429 -174247 -9779 7.56 -66.10</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 224.jpg"
+			},
+			{
+				"lat": 28.136, "lon": 49.827,
+				"name": "Rockwell Record #11 <span class=\"datamap-explorer-note-id\">(ID: 225)</span>",
+				"description": "Teleport command: <code>cheat spi -1363 -172180 -4236 -113.37 -50.01</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 225.jpg"
+			},
+			{
+				"lat": 35.962, "lon": 42.07,
+				"name": "Rockwell Record #12 <span class=\"datamap-explorer-note-id\">(ID: 226)</span>",
+				"description": "Teleport command: <code>cheat spi -62445 -110548 -9865 -126.44 -57.32</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 226.jpg"
+			},
+			{
+				"lat": 27.241, "lon": 55.116,
+				"name": "Rockwell Record #13 <span class=\"datamap-explorer-note-id\">(ID: 227)</span>",
+				"description": "Teleport command: <code>cheat spi 40288 -179225 -9699 -99.38 -47.21</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 227.jpg"
+			},
+			{
+				"lat": 35.942, "lon": 68.889,
+				"name": "Rockwell Record #14 <span class=\"datamap-explorer-note-id\">(ID: 228)</span>",
+				"description": "Teleport command: <code>cheat spi 148747 -110709 1520 -91.35 -45.27</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 228.jpg"
+			},
+			{
+				"lat": 31.428, "lon": 72.83,
+				"name": "Rockwell Record #15 <span class=\"datamap-explorer-note-id\">(ID: 229)</span>",
+				"description": "Teleport command: <code>cheat spi 179783 -146251 -11467 124.27 -49.36</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 229.jpg"
+			},
+			{
+				"lat": 31.01, "lon": 59.953,
+				"name": "Rockwell Record #16 <span class=\"datamap-explorer-note-id\">(ID: 230)</span>",
+				"description": "Teleport command: <code>cheat spi 78378 -149544 -6809 120.50 -45.87</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 230.jpg"
+			},
+			{
+				"lat": 40.355, "lon": 77.88,
+				"name": "Rockwell Record #17 <span class=\"datamap-explorer-note-id\">(ID: 231)</span>",
+				"description": "Teleport command: <code>cheat spi 219553 -75956 -8004 -156.44 -39.40</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 231.jpg"
+			},
+			{
+				"lat": 39.272, "lon": 86.596,
+				"name": "Rockwell Record #18 <span class=\"datamap-explorer-note-id\">(ID: 232)</span>",
+				"description": "Teleport command: <code>cheat spi 288197 -84480 -14009 61.07 -45.25</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 232.jpg"
+			},
+			{
+				"lat": 77.183, "lon": 69.486,
+				"name": "Raia Tablet #11 <span class=\"datamap-explorer-note-id\">(ID: 273)</span>",
+				"description": "Teleport command: <code>cheat spi 153451 214069 -19216 108.64 -41.52</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 273.jpg"
+			},
+			{
+				"lat": 76.472, "lon": 60.473,
+				"name": "Raia Tablet #12 <span class=\"datamap-explorer-note-id\">(ID: 274)</span>",
+				"description": "Teleport command: <code>cheat spi 82472 208465 -13906 136.13 -40.56</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 274.jpg"
+			},
+			{
+				"lat": 77.305, "lon": 77.208,
+				"name": "Raia Tablet #13 <span class=\"datamap-explorer-note-id\">(ID: 275)</span>",
+				"description": "Teleport command: <code>cheat spi 214260 215027 -12452 136.66 -42.20</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 275.jpg"
+			},
+			{
+				"lat": 31.902, "lon": 86.351,
+				"name": "Raia Tablet #14 <span class=\"datamap-explorer-note-id\">(ID: 276)</span>",
+				"description": "Teleport command: <code>cheat spi 286261 -142520 -16961 -90.12 -49.28</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 276.jpg"
+			},
+			{
+				"lat": 25.454, "lon": 88.747,
+				"name": "Raia Tablet #15 <span class=\"datamap-explorer-note-id\">(ID: 277)</span>",
+				"description": "Teleport command: <code>cheat spi 305136 -193301 -7003 -165.35 -45.27</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 277.jpg"
+			},
+			{
+				"lat": 46.814, "lon": 9.02,
+				"name": "Raia Tablet #16 <span class=\"datamap-explorer-note-id\">(ID: 278)</span>",
+				"description": "Teleport command: <code>cheat spi -322717 -25092 -13103 -123.95 -51.55</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 278.jpg"
+			},
+			{
+				"lat": 49.029, "lon": 19.833,
+				"name": "Raia Tablet #17 <span class=\"datamap-explorer-note-id\">(ID: 279)</span>",
+				"description": "Teleport command: <code>cheat spi -237568 -7644 -8799 -67.88 -57.58</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 279.jpg"
+			},
+			{
+				"lat": 43.041, "lon": 37.1,
+				"name": "Raia Tablet #18 <span class=\"datamap-explorer-note-id\">(ID: 280)</span>",
+				"description": "Teleport command: <code>cheat spi -101590 -54802 -11958 -144.23 -50.84</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 280.jpg"
+			},
+			{
+				"lat": 45.555, "lon": 34.497,
+				"name": "Dahkeya Note #19 <span class=\"datamap-explorer-note-id\">(ID: 303)</span>",
+				"description": "Teleport command: <code>cheat spi -122085 -35004 -12603 155.70 -49.17</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 303.jpg"
+			},
+			{
+				"lat": 54.315, "lon": 31.324,
+				"name": "Dahkeya Note #20 <span class=\"datamap-explorer-note-id\">(ID: 304)</span>",
+				"description": "Teleport command: <code>cheat spi -147076 33981 -18897 -120.28 -70.82</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 304.jpg"
+			},
+			{
+				"lat": 48.478, "lon": 64.286,
+				"name": "Dahkeya Note #21 <span class=\"datamap-explorer-note-id\">(ID: 305)</span>",
+				"description": "Teleport command: <code>cheat spi 112500 -11987 -6202 122.99 -60.76</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 305.jpg"
+			},
+			{
+				"lat": 85.684, "lon": 15.311,
+				"name": "Dahkeya Note #22 <span class=\"datamap-explorer-note-id\">(ID: 306)</span>",
+				"description": "Teleport command: <code>cheat spi -273174 281011 -10549 -178.03 -54.32</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 306.jpg"
+			},
+			{
+				"lat": 63.674, "lon": 8.285,
+				"name": "Dahkeya Note #23 <span class=\"datamap-explorer-note-id\">(ID: 307)</span>",
+				"description": "Teleport command: <code>cheat spi -328504 107683 -16839 -65.36 -50.30</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 307.jpg"
+			},
+			{
+				"lat": 73.186, "lon": 36.448,
+				"name": "Dahkeya Note #24 <span class=\"datamap-explorer-note-id\">(ID: 308)</span>",
+				"description": "Teleport command: <code>cheat spi -106725 182588 -12853 175.16 -36.56</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 308.jpg"
+			},
+			{
+				"lat": 61.271, "lon": 46.888,
+				"name": "Dahkeya Note #25 <span class=\"datamap-explorer-note-id\">(ID: 309)</span>",
+				"description": "Teleport command: <code>cheat spi -24506 88758 -10051 -40.40 -55.20</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 309.jpg"
+			},
+			{
+				"lat": 65.625, "lon": 55.681,
+				"name": "Dahkeya Note #26 <span class=\"datamap-explorer-note-id\">(ID: 310)</span>",
+				"description": "Teleport command: <code>cheat spi 44735 123043 -9241 -137.10 -53.69</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 310.jpg"
+			},
+			{
+				"lat": 78.915, "lon": 55.758,
+				"name": "Dahkeya Note #27 <span class=\"datamap-explorer-note-id\">(ID: 311)</span>",
+				"description": "Teleport command: <code>cheat spi 45344 227703 -12978 50.97 -76.19</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 311.jpg"
+			},
+			{
+				"lat": 76.86, "lon": 77.919,
+				"name": "Dahkeya Note #28 <span class=\"datamap-explorer-note-id\">(ID: 312)</span>",
+				"description": "Teleport command: <code>cheat spi 219866 211520 -11564 -161.05 -55.83</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 312.jpg"
+			},
+			{
+				"lat": 83.825, "lon": 72.202,
+				"name": "Dahkeya Note #29 <span class=\"datamap-explorer-note-id\">(ID: 313)</span>",
+				"description": "Teleport command: <code>cheat spi 174842 266373 -12857 -46.92 -31.99</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 313.jpg"
+			},
+			{
+				"lat": 86.934, "lon": 51.187,
+				"name": "Dahkeya Note #30 <span class=\"datamap-explorer-note-id\">(ID: 314)</span>",
+				"description": "Teleport command: <code>cheat spi 9350 290855 -6586 -146.19 -15.39</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 314.jpg"
+			},
+			{
+				"lat": 52.986, "lon": 26.165,
+				"name": "Helena Note #19 <span class=\"datamap-explorer-note-id\">(ID: 315)</span>",
+				"description": "Teleport command: <code>cheat spi -187699 23511 -13379 -67.39 -50.81</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 315.jpg"
+			},
+			{
+				"lat": 54.94, "lon": 48.613,
+				"name": "Helena Note #20 <span class=\"datamap-explorer-note-id\">(ID: 316)</span>",
+				"description": "Teleport command: <code>cheat spi -10922 38906 -8726 157.12 -46.53</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 316.jpg"
+			},
+			{
+				"lat": 86.405, "lon": 13.509,
+				"name": "Helena Note #21 <span class=\"datamap-explorer-note-id\">(ID: 317)</span>",
+				"description": "Teleport command: <code>cheat spi -287365 286690 -8797 -160.79 -38.11</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 317.jpg"
+			},
+			{
+				"lat": 87.704, "lon": 18.222,
+				"name": "Helena Note #22 <span class=\"datamap-explorer-note-id\">(ID: 318)</span>",
+				"description": "Teleport command: <code>cheat spi -250252 296919 -13850 -116.44 -49.00</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 318.jpg"
+			},
+			{
+				"lat": 66.195, "lon": 39.533,
+				"name": "Helena Note #23 <span class=\"datamap-explorer-note-id\">(ID: 319)</span>",
+				"description": "Teleport command: <code>cheat spi -82424 127532 -11849 -102.28 -42.35</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 319.jpg"
+			},
+			{
+				"lat": 60.378, "lon": 70.982,
+				"name": "Helena Note #24 <span class=\"datamap-explorer-note-id\">(ID: 320)</span>",
+				"description": "Teleport command: <code>cheat spi 165230 81729 -13340 -27.09 -53.30</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 320.jpg"
+			},
+			{
+				"lat": 72.759, "lon": 71.179,
+				"name": "Helena Note #25 <span class=\"datamap-explorer-note-id\">(ID: 321)</span>",
+				"description": "Teleport command: <code>cheat spi 166786 179229 -19412 -50.15 -49.19</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 321.jpg"
+			},
+			{
+				"lat": 85.015, "lon": 36.91,
+				"name": "Helena Note #26 <span class=\"datamap-explorer-note-id\">(ID: 322)</span>",
+				"description": "Teleport command: <code>cheat spi -103083 275746 -15616 13.04 -56.01</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 322.jpg"
+			},
+			{
+				"lat": 54.966, "lon": 12.644,
+				"name": "Helena Note #27 <span class=\"datamap-explorer-note-id\">(ID: 323)</span>",
+				"description": "Teleport command: <code>cheat spi -294175 39110 -15465 144.28 -46.41</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 323.jpg"
+			},
+			{
+				"lat": 16.727, "lon": 34.64,
+				"name": "Helena Note #28 <span class=\"datamap-explorer-note-id\">(ID: 324)</span>",
+				"description": "Teleport command: <code>cheat spi -120958 -262028 -13373 15.02 -52.04</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 324.jpg"
+			},
+			{
+				"lat": 21.793, "lon": 42.981,
+				"name": "Helena Note #29 <span class=\"datamap-explorer-note-id\">(ID: 325)</span>",
+				"description": "Teleport command: <code>cheat spi -55276 -222134 -10067 22.37 -38.14</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 325.jpg"
+			},
+			{
+				"lat": 23.149, "lon": 48.763,
+				"name": "Helena Note #30 <span class=\"datamap-explorer-note-id\">(ID: 326)</span>",
+				"description": "Teleport command: <code>cheat spi -9740 -211448 -9748 163.73 -51.74</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 326.jpg"
+			},
+			{
+				"lat": 55.127, "lon": 56.076,
+				"name": "Rockwell Record #19 <span class=\"datamap-explorer-note-id\">(ID: 327)</span>",
+				"description": "Teleport command: <code>cheat spi 47846 40378 -14387 -172.35 -43.52</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 327.jpg"
+			},
+			{
+				"lat": 44.421, "lon": 63.214,
+				"name": "Rockwell Record #20 <span class=\"datamap-explorer-note-id\">(ID: 328)</span>",
+				"description": "Teleport command: <code>cheat spi 104060 -43933 -7633 -1.64 -54.90</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 328.jpg"
+			},
+			{
+				"lat": 82.931, "lon": 16.809,
+				"name": "Rockwell Record #21 <span class=\"datamap-explorer-note-id\">(ID: 329)</span>",
+				"description": "Teleport command: <code>cheat spi -261382 259335 -11072 92.32 -68.35</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 329.jpg"
+			},
+			{
+				"lat": 82.684, "lon": 15.778,
+				"name": "Rockwell Record #22 <span class=\"datamap-explorer-note-id\">(ID: 330)</span>",
+				"description": "Teleport command: <code>cheat spi -269496 257386 -11201 146.55 -57.99</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 330.jpg"
+			},
+			{
+				"lat": 58.71, "lon": 86.526,
+				"name": "Rockwell Record #23 <span class=\"datamap-explorer-note-id\">(ID: 331)</span>",
+				"description": "Teleport command: <code>cheat spi 287641 68591 -15649 -98.76 -55.98</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 331.jpg"
+			},
+			{
+				"lat": 66.043, "lon": 87.188,
+				"name": "Rockwell Record #24 <span class=\"datamap-explorer-note-id\">(ID: 332)</span>",
+				"description": "Teleport command: <code>cheat spi 292859 126339 -11049 -45.65 -59.17</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 332.jpg"
+			},
+			{
+				"lat": 80.871, "lon": 39.555,
+				"name": "Rockwell Record #25 <span class=\"datamap-explorer-note-id\">(ID: 333)</span>",
+				"description": "Teleport command: <code>cheat spi -82258 243110 -11769 -78.10 -45.64</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 333.jpg"
+			},
+			{
+				"lat": 25.35, "lon": 52.554,
+				"name": "Rockwell Record #26 <span class=\"datamap-explorer-note-id\">(ID: 334)</span>",
+				"description": "Teleport command: <code>cheat spi 20110 -194117 -16524 -32.67 -56.72</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 334.jpg"
+			},
+			{
+				"lat": 31.174, "lon": 51.839,
+				"name": "Rockwell Record #27 <span class=\"datamap-explorer-note-id\">(ID: 335)</span>",
+				"description": "Teleport command: <code>cheat spi 14485 -148258 -20759 -78.54 -49.12</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 335.jpg"
+			},
+			{
+				"lat": 36.915, "lon": 50.144,
+				"name": "Rockwell Record #28 <span class=\"datamap-explorer-note-id\">(ID: 336)</span>",
+				"description": "Teleport command: <code>cheat spi 1137 -103045 -20757 32.04 -55.03</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 336.jpg"
+			},
+			{
+				"lat": 31.884, "lon": 48.882,
+				"name": "Rockwell Record #29 <span class=\"datamap-explorer-note-id\">(ID: 337)</span>",
+				"description": "Teleport command: <code>cheat spi -8803 -142660 -6219 -117.35 -49.77</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 337.jpg"
+			},
+			{
+				"lat": 30.255, "lon": 44.022,
+				"name": "Rockwell Record #30 <span class=\"datamap-explorer-note-id\">(ID: 338)</span>",
+				"description": "Teleport command: <code>cheat spi -47075 -155495 3257 105.71 -43.68</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 338.jpg"
+			},
+			{
+				"lat": 43.628, "lon": 59.595,
+				"name": "Raia Tablet #19 <span class=\"datamap-explorer-note-id\">(ID: 339)</span>",
+				"description": "Teleport command: <code>cheat spi 75559 -50180 -15750 75.05 -40.74</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 339.jpg"
+			},
+			{
+				"lat": 54.946, "lon": 61.56,
+				"name": "Raia Tablet #20 <span class=\"datamap-explorer-note-id\">(ID: 340)</span>",
+				"description": "Teleport command: <code>cheat spi 91032 38946 -15936 -150.56 -49.80</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 340.jpg"
+			},
+			{
+				"lat": 80.175, "lon": 14.99,
+				"name": "Raia Tablet #21 <span class=\"datamap-explorer-note-id\">(ID: 341)</span>",
+				"description": "Teleport command: <code>cheat spi -275706 237629 -10819 141.20 -36.99</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 341.jpg"
+			},
+			{
+				"lat": 82.049, "lon": 12.214,
+				"name": "Raia Tablet #22 <span class=\"datamap-explorer-note-id\">(ID: 342)</span>",
+				"description": "Teleport command: <code>cheat spi -297561 252388 -11593 -117.13 -45.92</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 342.jpg"
+			},
+			{
+				"lat": 62.933, "lon": 44.178,
+				"name": "Raia Tablet #23 <span class=\"datamap-explorer-note-id\">(ID: 343)</span>",
+				"description": "Teleport command: <code>cheat spi -45850 101845 -17538 47.48 -51.20</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 343.jpg"
+			},
+			{
+				"lat": 60.234, "lon": 59.537,
+				"name": "Raia Tablet #24 <span class=\"datamap-explorer-note-id\">(ID: 344)</span>",
+				"description": "Teleport command: <code>cheat spi 75100 80593 -17311 -122.35 -41.06</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 344.jpg"
+			},
+			{
+				"lat": 86.777, "lon": 30.349,
+				"name": "Raia Tablet #25 <span class=\"datamap-explorer-note-id\">(ID: 345)</span>",
+				"description": "Teleport command: <code>cheat spi -154748 289615 -9412 -132.76 -52.73</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 345.jpg"
+			},
+			{
+				"lat": 76.241, "lon": 54.114,
+				"name": "Raia Tablet #26 <span class=\"datamap-explorer-note-id\">(ID: 346)</span>",
+				"description": "Teleport command: <code>cheat spi 32397 206645 -6602 -79.67 -49.83</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 346.jpg"
+			},
+			{
+				"lat": 37.194, "lon": 39.925,
+				"name": "Raia Tablet #27 <span class=\"datamap-explorer-note-id\">(ID: 347)</span>",
+				"description": "Teleport command: <code>cheat spi -79338 -100844 -10025 42.93 -43.45</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 347.jpg"
+			},
+			{
+				"lat": 41.793, "lon": 31.614,
+				"name": "Raia Tablet #28 <span class=\"datamap-explorer-note-id\">(ID: 348)</span>",
+				"description": "Teleport command: <code>cheat spi -144789 -64633 24536 54.43 -51.33</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 348.jpg"
+			},
+			{
+				"lat": 46.653, "lon": 22.077,
+				"name": "Raia Tablet #29 <span class=\"datamap-explorer-note-id\">(ID: 349)</span>",
+				"description": "Teleport command: <code>cheat spi -219895 -26359 -11647 -126.00 -46.81</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 349.jpg"
+			},
+			{
+				"lat": 70.492, "lon": 39.113,
+				"name": "Raia Tablet #30 <span class=\"datamap-explorer-note-id\">(ID: 350)</span>",
+				"description": "Teleport command: <code>cheat spi -85739 161378 -16335 172.73 -53.68</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 350.jpg"
+			},
+			{
+				"lat": 51.578, "lon": 49.567,
+				"name": "??? Note #2 <span class=\"datamap-explorer-note-id\">(ID: 509)</span>",
+				"description": "Teleport command: <code>cheat spi -3409 12425 -148268 -48.05 -13.11</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 509.jpg"
+			},
+			{
+				"lat": 63.475, "lon": 61.67,
+				"name": "??? Note #5 <span class=\"datamap-explorer-note-id\">(ID: 512)</span>",
+				"description": "Teleport command: <code>cheat spi 91903 106115 -12503 -175.61 -54.04</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 512.jpg"
+			},
+			{
+				"lat": 63.669, "lon": 28.978,
+				"name": "??? Note #8 <span class=\"datamap-explorer-note-id\">(ID: 515)</span>",
+				"description": "Teleport command: <code>cheat spi -165547 107645 1494 -39.99 -38.28</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 515.jpg"
+			},
+			{
+				"lat": 30.486, "lon": 56.391,
+				"name": "??? Note #11 <span class=\"datamap-explorer-note-id\">(ID: 518)</span>",
+				"description": "Teleport command: <code>cheat spi 50333 -153672 -7311 125.65 -33.27</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 518.jpg"
+			},
+			{
+				"lat": 23.83, "lon": 29.295,
+				"name": "??? Note #14 <span class=\"datamap-explorer-note-id\">(ID: 521)</span>",
+				"description": "Teleport command: <code>cheat spi -163049 -206091 16092 -13.21 -39.07</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 521.jpg"
+			},
+			{
+				"lat": 74.146, "lon": 37.884,
+				"name": "Bobs Tall Tales #1 <span class=\"datamap-explorer-note-id\">(ID: 1234)</span>",
+				"description": "Teleport command: <code>cheat spi -95414.582354 190150.311748 -20489.117660 -1371.934054 -17.747953</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 1234.jpg"
+			},
+			{
+				"lat": 59.895, "lon": 14.682,
+				"name": "Bobs Tall Tales #2 <span class=\"datamap-explorer-note-id\">(ID: 1235)</span>",
+				"description": "Teleport command: <code>cheat spi -278127.745790 77926.139677 -32265.609807 -1181.134051 -22.947953</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 1235.jpg"
+			},
+			{
+				"lat": 73.965, "lon": 36.836,
+				"name": "Bobs Tall Tales #3 <span class=\"datamap-explorer-note-id\">(ID: 1236)</span>",
+				"description": "Teleport command: <code>cheat spi -103663.297423 188724.453762 -10429.362887 787.940435 -18.600101</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 1236.jpg"
+			},
+			{
+				"lat": 83.655, "lon": 14.456,
+				"name": "Bobs Tall Tales #4 <span class=\"datamap-explorer-note-id\">(ID: 1237)</span>",
+				"description": "Teleport command: <code>cheat spi -279905.630754 265035.554098 -11876.792374 950.740437 -36.000101</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 1237.jpg"
+			},
+			{
+				"lat": 19.46, "lon": 23.851,
+				"name": "Bobs Tall Tales #5 <span class=\"datamap-explorer-note-id\">(ID: 1238)</span>",
+				"description": "Teleport command: <code>cheat spi -205921.612433 -240504.197950 10380.414621 1051.140439 -21.600101</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 1238.jpg"
+			},
+			{
+				"lat": 39.863, "lon": 30.487,
+				"name": "Bobs Tall Tales #6 <span class=\"datamap-explorer-note-id\">(ID: 1239)</span>",
+				"description": "Teleport command: <code>cheat spi -153666.653858 -79830.086796 29252.115453 753.140435 -32.000101</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 1239.jpg"
+			},
+			{
+				"lat": 56.112, "lon": 46.004,
+				"name": "Bobs Tall Tales #7 <span class=\"datamap-explorer-note-id\">(ID: 1240)</span>",
+				"description": "Teleport command: <code>cheat spi -31464.942452 48134.547284 4993.427645 758.140435 -24.800101</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 1240.jpg"
+			},
+			{
+				"lat": 69.416, "lon": 66.58,
+				"name": "Bobs Tall Tales #8 <span class=\"datamap-explorer-note-id\">(ID: 1241)</span>",
+				"description": "Teleport command: <code>cheat spi 130569.570053 152897.444278 -13440.048279 585.740432 -33.000101</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 1241.jpg"
+			},
+			{
+				"lat": 76.891, "lon": 78.737,
+				"name": "Bobs Tall Tales #9 <span class=\"datamap-explorer-note-id\">(ID: 1242)</span>",
+				"description": "Teleport command: <code>cheat spi 226305.408020 211766.087257 -11463.363866 705.140434 -27.600101</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 1242.jpg"
+			},
+			{
+				"lat": 54.284, "lon": 34.335,
+				"name": "Bobs Tall Tales #10 <span class=\"datamap-explorer-note-id\">(ID: 1243)</span>",
+				"description": "Teleport command: <code>cheat spi -123363.738666 33735.100985 1280.099197 -169.859579 -40.000101</code>",
+				"image": "ASA ScorchedEarth ExpNote ID 1243.jpg"
+			}
+		]
+	}
+}
