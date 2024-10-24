@@ -15,22 +15,22 @@ unEditedStringB = """SavedMinimapMarks=(Name="{1}",CustomTag="{2}",Location=(X={
 #Change as required; the name of the map which you wish to create markers for
 
 #mapName = "TheIsland_WP"
-mapName = "ScorchedEarth_WP"
-#mapName = "Aberration_WP"
+#mapName = "ScorchedEarth_WP"
+mapName = "Aberration_WP"
 
 #These are the names of the files I created using the json data from the aforementioned ark.wiki.gg pages. Files must be saved next to the script!
 
 #mapData = "theIsland.json"
-mapData = "scorchedEarth.json"
-#mapData = "aberration.json"
+#mapData = "scorchedEarth.json"
+mapData = "aberration.json"
 
 #The names of the files that you wish to create. These are then cut and pasted into GameUserSettings.ini. Change name as required
 #noteFileName = "islandNotes.txt"
 #cmdsFileName = "islandCmds.txt"
-noteFileName = "scorchedNotes.txt"
-cmdsFileName = "scorchedCmds.txt"
-#noteFileName = "aberrationNotes.txt"
-#cmdsFileName = "aberrationCmds.txt"
+#noteFileName = "scorchedNotes.txt"
+#cmdsFileName = "scorchedCmds.txt"
+noteFileName = "aberrationNotes.txt"
+cmdsFileName = "aberrationCmds.txt"
 
 #Lists to temp save the extracted data
 TeleportCmds = list()
@@ -105,7 +105,7 @@ def extractNoteData(notes):
            editedString = unEditedStringD
         
         #Is it a tall tale if so swap default
-        if("Bobs Tall Tales" in name):
+        if("Tall Tale" in name):
            editedString = unEditedStringB     
         
         #Input json data into marker deffinition
