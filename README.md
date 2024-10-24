@@ -20,8 +20,8 @@ Teleport data can be used by pasting the commands into the command terminal. The
 The script can used to 'brute' parse data from the following ark.wiki.gg pages
 
 - [https://ark.wiki.gg/wiki/Explorer_Map/The_Island](https://ark.wiki.gg/wiki/Explorer_Map/The_Island)
-- [https://ark.wiki.gg/wiki/Explorer_Map/Scorched_Earth](url)
-- [https://ark.wiki.gg/wiki/Explorer_Map/Aberration](url)
+- [https://ark.wiki.gg/wiki/Explorer_Map/Scorched_Earth](https://ark.wiki.gg/wiki/Explorer_Map/Scorched_Earth)
+- [https://ark.wiki.gg/wiki/Explorer_Map/Aberration](https://ark.wiki.gg/wiki/Explorer_Map/Aberration)
 
 As additional maps are released and the coresponding data is updated at [ark.wiki.gg](ark.wiki.gg), the script can be amended to parse any new map data. This is as long as they dont change the formating. The data can be obtained via visiting the webpage and clicking on the 'Edit map data' button (pencil icon). Copy the json and save it as a .json file in the directory 'json' found next to the script. This can then be parsed by setting the name of the file to your filename i.e. mapData = "theIsland.json"
 
